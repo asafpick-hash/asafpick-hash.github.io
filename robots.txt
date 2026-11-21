@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asafpick-hash.github.io/sitemap.xml
